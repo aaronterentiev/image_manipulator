@@ -1,4 +1,4 @@
-# image_manipulator
+# Overlaying Text Over Images
 
 ![George Boole Portrait From Wikipedia](/images/George_Boole_color.jpg)
 ![George Boole with Binary Overlay and Purple Background](/images/binary_George_Boole_color.png)
